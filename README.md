@@ -9,3 +9,4 @@ Rules
 
 
 If a card is to be chosen, I would like to have the script prepared as well. The box art or even entire card aspect and its text, if it can be improved, I will ask for the resources as well so that I can adjust it.
+

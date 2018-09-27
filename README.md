@@ -1,5 +1,6 @@
 # HQ Community Collection
 The cards in this repository are only the best cards among the card_creation channel on Discord made by the community. If you want to contribute to this repository, join our Discord server https://discord.gg/QqeRP7 and enter the competition by posting your best cards in the respective section.
+
 Rules
 --------
 -The cards must be submitted in the card_creation channel just as before.
